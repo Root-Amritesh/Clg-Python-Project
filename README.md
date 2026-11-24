@@ -6,6 +6,10 @@ Rule-based SMS / WhatsApp scam screening tool built in Python. Analyses messages
 **Institution**: Bennett University, School of CSET  
 **Academic Year**: 2026-27
 
+## Repository
+
+- **GitHub**: https://github.com/Root-Amritesh/Clg-Python-Project
+
 ## Features
 
 - Keyword and phrase matching across 7 scam categories

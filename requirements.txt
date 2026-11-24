@@ -1,3 +1,5 @@
 # Optional dependency for charts (graceful fallback if not installed)
 matplotlib
 
+# Required to regenerate the Project Report (Offline_Scam_Message_Detector_Project_Report.docx)
+python-docx

@@ -36,7 +36,7 @@ A huge thank you to our faculty and mentors at Bennett University for guiding us
 Proud of the teamwork with my project partners:
 👥 Naved Ali | Tanishk Singh | Aryan Chahal | Praval Verma
 
-🔗 **GitHub Repository**: https://github.com/[your-username]/offline-scam-message-detector
+🔗 **GitHub Repository**: https://github.com/Root-Amritesh/Clg-Python-Project
 
 #Python #CyberSecurity #ComputerScience #ComputationalThinking #BennettUniversity #BTechCSE #OpenSource #PhishingDetection #StudentProjects #SoftwareEngineering
 
